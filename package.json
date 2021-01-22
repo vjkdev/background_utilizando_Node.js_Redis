@@ -1,0 +1,25 @@
+{
+  "name": "dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js",
+    "queue": "nodemon src/queue.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^3.20.0",
+    "bull-board": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.17",
+    "password-generator": "^2.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "sucrase": "^3.17.0"
+  }
+}
