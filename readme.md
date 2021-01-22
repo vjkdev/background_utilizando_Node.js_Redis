@@ -86,4 +86,4 @@ Ele passa pelas etapas de delayed, active e quando aparecer em completed abra o 
 
 ## Licença
 
-This project is under the MIT license. See the [LICENSE](https://github.com/vjkdev/background_utilizando_Node.js_Redis/main/license) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/vjkdev/background_utilizando_Node.js_Redis/blob/main/license.md) for more information.
